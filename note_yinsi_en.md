@@ -1,11 +1,11 @@
 
-### Privacy Policy for LockNote
+### Privacy Policy for ScreenDo
 
-Your privacy is important to us. This Privacy Policy explains how LockNote ("we", "our", or "the app") handles your information.
+Your privacy is important to us. This Privacy Policy explains how ScreenDo ("we", "our", or "the app") handles your information.
 
 #### 1. Information We Do NOT Collect
 
-LockNote is designed with privacy in mind. We do NOT collect, store, or transmit any of your personal information to external servers. Specifically:
+ScreenDo is designed with privacy in mind. We do NOT collect, store, or transmit any of your personal information to external servers. Specifically:
 
 - We do NOT collect your name, email, or contact information
 - We do NOT track your location
@@ -40,7 +40,7 @@ Since all data is stored locally on your device:
 
 #### 5. Children's Privacy
 
-LockNote does not knowingly collect any information from children under the age of 13. The app is suitable for all ages.
+ScreenDo does not knowingly collect any information from children under the age of 13. The app is suitable for all ages.
 
 #### 6. Changes to This Policy
 
