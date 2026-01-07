@@ -1,7 +1,7 @@
 # OurLoop Terms of Service
 
-**Effective Date:** January 7, 2025  
-**Last Updated:** January 7, 2025
+**Effective Date:** January 7, 2026  
+**Last Updated:** January 7, 2026
 
 Welcome to OurLoop! Please read these Terms of Service (the "Terms") carefully. By using the OurLoop application and related services, you agree to be bound by these Terms.
 
