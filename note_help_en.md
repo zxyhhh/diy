@@ -1,57 +1,158 @@
-### ScreenDo - Technical Support
+# ScreenDo Help Documentation
 
-**Need Help?**
+## App Introduction
 
-We're here to assist you with any questions or issues you may encounter while using ScreenDo.
+ScreenDo is a time tracking app focused on "calm recording." Unlike traditional streak-based apps, ScreenDo doesn't emphasize consecutive days or pressure. Instead, it helps you notice life rhythms in a more relaxed way—what needs attention, what's stable, and what's coming up next.
 
-#### Contact Us
+### Core Philosophy
 
-**Email Support:** [zxyhdream@gmail.com]
-
-**Response Time:** We aim to respond to all inquiries within 24-48 hours (business days).
-
----
-
-#### Frequently Asked Questions (FAQ)
-
-**Q: Why don't I see my tasks on the lock screen?**  
-A: Make sure you've marked tasks as "Urgent" in the app. Due to widget limitations, the lock screen widget can only display the first 4 tasks.
-
-**Q: How do I set up recurring reminders?**  
-A: When creating or editing a task, tap the reminder icon and select your preferred repeat interval (daily, weekly, or monthly).
-
-**Q: Can I use ScreenDo on Android?**  
-A: The Android version is not yet available. Stay tuned for updates.
-
-**Q: How do I change the app language?**  
-A: ScreenDo automatically uses your device's system language. We support 10 languages: English, 简体中文, 繁體中文, Français, 日本語, 한국어, Español, Português, Deutsch, and Русский.
-
-**Q: My tasks aren't syncing. What should I do?**  
-A: ScreenDo stores all data locally on your device. There is no cloud sync. If you switch devices, you'll need to manually recreate your tasks.
-
-**Q: How do I delete completed tasks?**  
-A: Swipe left on any task and tap the delete icon. Completed tasks can be found in the "Completed" section.
+- **Pressure-free tracking** - No streak chasing, just actual recording
+- **Rhythm awareness** - Discover patterns and rhythms in your life
+- **Simple operation** - One-tap logging, quick and easy
 
 ---
 
-#### Reporting Bugs
+## Features
 
-If you encounter a bug, please email us with the following information:
+### 1. Event Tracking
 
-- Device model and iOS/Android version
-- App version (found in Settings)
-- Steps to reproduce the issue
-- Screenshots (if applicable)
+Create events you want to track, such as:
+- Replace air filter
+- Oil change
+- Exercise
+- Reading
+- Anything you want to record
+
+Each event can:
+- Have a custom icon and color
+- Include notes and descriptions
+- Show history and pattern analysis
+
+### 2. Quick Logging
+
+After creating an event, just one tap to log:
+- Tap the icon on the event card to log quickly
+- Long-press the event card for more options
+- Add notes to your logs
+
+### 3. Insights
+
+ScreenDo automatically analyzes your recording patterns:
+- **Interval analysis** - Shows days between each log
+- **Expected next** - Predicts next occurrence based on history
+- **Status tags** - Overdue, stable, needs attention, etc.
+
+### 4. Log History
+
+View your complete recording history:
+- Browse all logs by timeline
+- See details and notes for each log
+- Edit and delete logs
+
+### 5. Data Management
+
+- **Export Data** - Export data as JSON file for backup
+- **Import Data** - Restore data from backup file
+- **iCloud Backup** - Automatic backup to iCloud (Pro feature)
+
+### 6. Widget Support
+
+Add widgets to your home screen for quick viewing and logging.
 
 ---
 
-#### Feature Requests
+## Settings Guide
 
-We love hearing your ideas! Send your feature suggestions to [zxyhdream@gmail.com].
+### Appearance
+
+- **System** - Automatically adapt to system dark/light mode
+- **Light** - Always use light theme
+- **Dark** - Always use dark theme
+
+### Language
+
+Supported languages:
+- System
+- English
+- 简体中文 (Simplified Chinese)
+- 繁體中文 (Traditional Chinese)
+- Deutsch (German)
+- Français (French)
+- 日本語 (Japanese)
+- 한국어 (Korean)
+- Español (México)
+- Português (Brasil)
+
+### Preferences
+
+- **Count days by calendar** - Use calendar method to calculate "X days ago" (more intuitive)
+- **Estimate method** - Choose how to predict next occurrence:
+  - Simple average: Average of all intervals
+  - Weighted average: Recent logs have more weight
+  - Recent only: Based only on the most recent interval
 
 ---
 
-#### Privacy & Data
+## Pro Features
 
-ScreenDo does not collect or transmit any personal data. All your tasks are stored locally on your device. For more information, see our [Privacy Policy](https://github.com/zxyhhh/diy/blob/main/note_yinsi_en.md).
+Upgrade to Pro to unlock:
 
+- **Unlimited events** - Free version limited to 3 events
+- **iCloud Sync** - Sync data across all your devices
+- **Data Export** - Export and backup your data
+
+### Subscription Plans
+
+- **Weekly** - 3-day free trial, then billed weekly
+- **Yearly** - Billed annually
+- **Lifetime** - One-time purchase, use forever
+
+---
+
+## FAQ
+
+### Q: How do I create a new event?
+
+Tap the **+** button in the center of the bottom navigation bar, enter the event name, select an icon and color, then tap Save.
+
+### Q: How do I log an event?
+
+Find the event card you want to log on the home page, then tap the icon on the card. You can also long-press the card and select "Log now".
+
+### Q: How do I edit or delete an event?
+
+Long-press the event card, then select "Edit" or "Delete" from the popup menu.
+
+### Q: Will my data be lost?
+
+Data is stored locally on your device and not uploaded to servers. We recommend using the "Export Data" feature regularly for backup. Pro users can enable automatic iCloud backup.
+
+### Q: How do I restore a purchase?
+
+Go to Settings, tap the "Upgrade" button, then select "Restore Purchase".
+
+### Q: How do I use widgets?
+
+1. Long-press an empty area on your home screen
+2. Tap the **+** button in the top-left corner
+3. Search for "ScreenDo"
+4. Select the widget style and add it
+
+---
+
+## Support
+
+For questions or suggestions, contact:
+
+- **Email**: zxyhdream@gmail.com
+
+---
+
+## Legal
+
+- [Terms of Service](See in-app for full content)
+- [Privacy Policy](See in-app for full content)
+
+---
+
+*ScreenDo - Track the last time with more calm and clarity*
