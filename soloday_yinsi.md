@@ -156,8 +156,8 @@ We may update this Privacy Policy when app features change, legal requirements c
 
 If you have any questions, requests, or suggestions about this Privacy Policy or SoloDay's data practices, please contact:
 
-- Developer name: please add before publishing
-- Contact email: please add before publishing
+- Developer name: soloapp  
+- Contact email: zxyhdream@gmail.com
 - App name: SoloDay
 
 We will make reasonable efforts to respond after receiving your request.
