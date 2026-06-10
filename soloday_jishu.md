@@ -6,7 +6,7 @@ SoloDay is a calm, minimal app for daily intentions, gentle planning, and reflec
 
 If you need help, want to report a bug, or would like to share feedback, please contact support:
 
-- Support email: please add your support email before publishing
+- Support email: zxyhdream@gmail.com
 - App name: SoloDay
 - Current version: 1.0.0
 
