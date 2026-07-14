@@ -137,7 +137,7 @@ Open Pictro > My:
 
 Pictro processes photos, videos, and camera content on your device by default and does not upload this creative content to Pictro-operated servers. Content is written to the photo library or sent to a third-party app only when you choose to save or share it.
 
-For details about Firebase Analytics, Apple purchases, and data handling, read the [Pictro Privacy Policy](./yinsi.md).
+For details about Firebase Analytics, Apple purchases, and data handling, read the [Pictro Privacy Policy](./pictro_yinsi.md).
 
 ## Still Need Help?
 
