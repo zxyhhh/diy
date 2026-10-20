@@ -1,57 +1,40 @@
-### 1. About this policy
+### 1. About TokDock
 
-This policy explains how TokDock handles information when you resolve video links, download video or audio, view advertisements, and use related features. TokDock does not require a TokDock account, membership, or subscription. TokDock is an independent app and is not affiliated with or endorsed by TikTok.
+TokDock helps you save videos and audio from links you provide. You do not need to create an account. This policy explains how information is handled when you use the app.
 
-### 2. Links and network requests
+### 2. Information we use
 
-When you submit a link, TokDock sends the link or its video identifier to third-party video-resolution services, including the `tiktok-scraper7` service accessed through RapidAPI, and may contact TikTok endpoints as a fallback. These services return information such as the title, creator name, cover image, and media download addresses.
+- **Links you submit:** Your link and information needed to retrieve the content are sent to third-party service providers to complete your request. These providers may receive your IP address and basic connection information.
+- **Files and preferences:** Downloaded files, download history, and app preferences are stored on your device. TokDock does not automatically upload your downloaded files to our servers.
+- **Clipboard:** The app reads clipboard text when you tap “Paste link,” or receives text you choose to share from another app.
+- **Support requests:** If you contact us, we use the information you provide to respond to your request.
 
-The receiving services and media servers can receive your IP address, the submitted link or video identifier, and ordinary request information such as device/browser headers. This processing is necessary to resolve and deliver the content you request. A submitted link can contain sharing parameters supplied by the source platform. Only submit links you intend to process; do not submit credentials or confidential information.
+### 3. Advertising and third-party services
 
-TokDock does not operate an account-based cloud library or automatically upload your downloaded files to a developer-operated server.
+The Android version uses Google AdMob to display ads. Google may collect and share IP addresses, approximate location, device and advertising identifiers, app and ad interactions, and diagnostic information for advertising, measurement, and fraud prevention. Processing depends on your region, privacy choices, and device settings. The current iOS version does not display ads.
 
-### 3. Information stored on your device
+Where available, you can manage your choices through “Ad privacy options” in the app. You can also manage advertising preferences in your device settings. Read [Google’s Privacy Policy](https://policies.google.com/privacy) for more information.
 
-Downloaded files, download history, download progress, language preferences, and whether an automatic review request has been made are stored on your device. Download history may include a title, file identifier or file name, media type, and download status. The app also receives media metadata needed to display a download result.
+Content delivery, advertising, and app-store services are provided by third parties under their own privacy policies. Their processing may take place outside your country. We do not sell your downloaded files or download history.
 
-TokDock reads clipboard text when you select “Paste link.” If you share a link to TokDock from another app, TokDock receives the text you choose to share. TokDock does not continuously monitor your clipboard.
+If you share a file, it is sent to the app or recipient you select. Ratings and reviews you submit through an app store are handled by that store.
 
-### 4. Advertising on Android
+### 4. Retention, deletion, and your rights
 
-The Android version integrates Google AdMob interstitial ads before video or audio downloads. Google advertising SDKs may collect and share IP addresses, approximate location inferred from IP addresses, advertising and app/device identifiers, app and ad interactions, and diagnostic/performance information. Google uses this information for advertising, measurement, and fraud prevention. Data handling can vary with your region, consent choices, device settings, and the ad features in use.
+You can remove download records in the app and delete downloaded files using your device’s file manager. Removing a download record does not delete the file. Uninstalling TokDock clears its local app data, but files in public download folders may remain until you delete them.
 
-Where available, you can manage consent through “Ad privacy options” in TokDock Settings. You can also manage, reset, or delete your advertising ID using Android's privacy or advertising settings. Availability and wording depend on your Android version. The current iOS version does not integrate advertising.
+Third-party providers retain information according to their own policies. Depending on applicable law, you may have rights to access, correct, delete, restrict, or object to the processing of personal information, or withdraw consent. Contact us using the developer contact information on TokDock’s app-store listing. For information independently handled by a third party, you may also need to contact that provider.
 
-See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+### 5. Security and children
 
-### 5. Permissions, sharing, and reviews
+We take reasonable measures to protect information, but no transmission or storage method is completely secure.
 
-Internet access is used for link resolution, media delivery, and advertising. Downloads are saved using the operating system's download or file facilities. TokDock does not need access to your contacts, SMS messages, microphone, camera, or precise GPS location to provide its download features.
+TokDock is not directed to children under 13, or a higher minimum age required by local law. We do not knowingly collect personal information from children. If you believe a child has provided personal information through the app, please contact us.
 
-When you open or share a downloaded file, the operating system provides access to the app or recipient you select. Their handling of the file is governed by their own policies.
+### 6. Updates and contact
 
-TokDock may request a native Google Play or App Store review after a video download completes. Review information is handled by the relevant store. TokDock does not receive or store the star rating or review text you submit through the store dialog.
+We may update this policy as our services change. The date above identifies the latest revision.
 
-### 6. Third parties and international processing
+For privacy questions or requests, contact the developer using the contact information on TokDock’s Google Play or App Store listing.
 
-Third parties involved in providing these features can include Google AdMob, Google Play, Apple App Store, RapidAPI and the relevant API provider, TikTok, and the media hosting services associated with a download. Your requests and related information may be processed outside your country. These providers operate under their own privacy policies and applicable terms. TokDock does not control their independent retention practices.
-
-TokDock does not sell your downloaded files or download history. Third-party advertising data processing is described separately above; this statement does not mean advertising SDKs process no personal information.
-
-### 7. Retention, deletion, and your choices
-
-You can remove download-history entries in the app. Removing a history entry does not delete the corresponding file. Delete downloaded files using your system's file manager or file controls. Uninstalling the app removes its local app data, but files saved in a public Downloads folder may remain until you delete them.
-
-Third-party providers retain information according to their own policies. Depending on your location, you may have rights to access, correct, delete, restrict, or object to processing of personal information, or to withdraw consent. Contact us through the developer contact details on TokDock's app-store listing. For data independently controlled by a third party, you may also need to contact that provider directly.
-
-### 8. Security
-
-TokDock uses HTTPS for its video-resolution endpoints. Google states that advertising SDK data is encrypted in transit using TLS. Media delivery is performed by the relevant third-party servers. No transmission or storage method can be guaranteed completely secure.
-
-### 9. Children
-
-TokDock is not directed to children under 13, or under a higher minimum age where required by local law. We do not knowingly ask children to submit personal information. If you believe a child has provided personal information through the app, contact us using the developer contact information on the app-store listing.
-
-### 10. Changes and contact
-
-We may update this policy when the app's features or data practices change. The updated policy will show a revised date. For privacy questions or requests, use the developer contact information displayed on TokDock's Google Play or App Store listing.
+TokDock is an independent app and is not affiliated with or endorsed by TikTok.
